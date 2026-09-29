@@ -225,7 +225,7 @@ Main machine learning techniques:
 ```text
 Customer-Segmentation/
 │
-├── Project-02.ipynb
+├── Customer_segmentation.ipynb
 ├── README.md
 ├── requirements.txt
 │
